@@ -1,0 +1,6 @@
+# Default ignored files
+Thumbs.db
+.DS_Store
+/tmp/
+*_old
+*_backup
